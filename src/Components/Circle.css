@@ -1,0 +1,10 @@
+.Circle{
+    height: 40vh;
+    border-radius: 100%;
+    width: 40vh;
+    position: absolute;
+    top: -10%;
+    left: 5rem;
+    background: #EFB405;
+    filter: blur(80px);
+}
